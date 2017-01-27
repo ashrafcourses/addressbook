@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ashrafcourses/jprime.svg?branch=master)](https://travis-ci.org/ashrafcourses/jprime)
+
 Addressbook Tutorial
 ====================
 
