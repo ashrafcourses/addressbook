@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ashrafcourses/jprime.svg?branch=master)](https://travis-ci.org/ashrafcourses/jprime)
+[![Build Status](https://travis-ci.org/ashrafcourses/addressbook.svg?branch=master)](https://travis-ci.org/ashrafcourses/addressbook)
 
 Addressbook Tutorial
 ====================
