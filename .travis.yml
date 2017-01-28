@@ -4,7 +4,7 @@ jdk:
 deploy:
   provider: heroku
   api_key:
-    secure:$HERUKU_API_KEY
+    secure: fuDX2pnsZ5fYCVcZGQVyjnZn/kC7mCRMdKof2yovk3sehYBko+M/cjluwYBRzdbtt+n0zX6DKsLZwQBTRfI0atW4onOABp+vjoYq4BA6ZyAdHg0GGXJ79ak79jfl++sFxM1yPBcehSwQxbb506arwGkjJPkxFOEZ9a17CnUVmX8CoDh+lOmGRPx0FGu2QLi/gM5PKGzmTcb7inocH53Vog1KoD0LULyrdz25nbtIMuwMMNjUSXTH3hWiR3HEwP/R3EYJq3i3kO2QCMr0H68f3uMcOvmOO7leaIfFuSOQKDyewZCnZDpuLYY4kA2ToayiFmMIh7Tx5scDl7zVrAiGb2NHvY2/Som2Vw0ZvQq2VAefV/TguKrZaIz9pLT/q+gcCCvl/HlqCGa4oLMC0Cjt2B5/ABL1ad9BulJ6WwIZy3YNfS9hrYVXmcrxlq3DscRxNcCwev2N6kaLUsearvMLekoFcMp3IuQx+sbgZIZVXBf7Gm68wU5aUlxbT+wFE/gh3ICHHypwzodXTI4ilfaiRqQjFMv985CzLPLpfTDozuEkp2bJLx2tebNlAw498MZKyFpcVJlbt4I+YmmMC8AdQc7GDQCe/SB/5lHac8XynhxsHJ9E3NadNK1wUcLIMdadeqaGxUczl+KCaqDG4wBLUff85vKJWniW993R6t7tui4=
   app: cs-addressbook
   on:
     repo: ashrafcourses/addressbook
