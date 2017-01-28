@@ -1,4 +1,4 @@
-i1[![Build Status](https://travis-ci.org/ashrafcourses/addressbook.svg?branch=master)](https://travis-ci.org/ashrafcourses/addressbook)
+[![Build Status](https://travis-ci.org/ashrafcourses/addressbook.svg?branch=master)](https://travis-ci.org/ashrafcourses/addressbook)
 
 Addressbook Tutorial
 ====================
